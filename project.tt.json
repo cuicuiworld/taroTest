@@ -1,0 +1,15 @@
+
+    {
+        "miniprogramRoot": "./",
+        "projectname": "miniapp",
+        "description": "taro",
+        "appid": "wxfe363f10829817cb",
+        "setting": {
+          "urlCheck": true,
+          "es6": false,
+          "postcss": false,
+          "minified": false
+        },
+        "compileType": "miniprogram"
+      }
+    
